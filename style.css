@@ -1,0 +1,32 @@
+body {
+    background: black;      
+    color: white;          
+    font-family: Arial;     
+    margin: 0;
+    padding: 20px;
+    text-align: center;     
+}
+
+.container {
+    max-width: 500px;
+    margin: auto; 
+}          
+
+.quote-box {
+    border: 1px solid #444; 
+    padding: 20px;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #555;
+}
